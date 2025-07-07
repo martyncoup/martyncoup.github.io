@@ -1,12 +1,17 @@
 [
   {
     "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-atlantic-theme",
+    "link": "https://github.com/martyncoup",
     "image": "https://simpleicons.org/icons/github.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "https://simpleicons.org/icons/twitter.svg"
+    "name": "BlueSky",
+    "link": "https://bsky.app/profile/m12d.com",
+    "image": "https://simpleicons.org/icons/bluesky.svg"
+  },
+  {
+    "name": "X",
+    "link": "https://x.com/mrcoups",
+    "image": "https://simpleicons.org/icons/x.svg"
   }
 ]

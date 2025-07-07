@@ -1,8 +1,5 @@
-sage_kirk:
-  name: 'Sage Kirk'
-  image: 'assets/images/author/sage-kirk.jpg'
-  twitter: '@zerostaticio'
-mike_vance:
-  name: 'Mike Vance'
-  image: 'assets/images/author/mike-vance.jpg'
-  twitter: '@zerostaticio'
+martyn_coupland:
+  name: "Martyn Coupland"
+  image: "assets/images/author/martyn-coup.jpg"
+  twitter: "@mrcoups"
+  github: "martyncoup"

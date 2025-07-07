@@ -1,0 +1,34 @@
+---
+layout: post
+title: Breaking Changes to GitHub Actions
+date: 2020-11-20 21:10:00.000000000 +00:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories: []
+tags:
+- Breaking Changes
+- GitHub
+- GitHub Actions
+meta:
+  _publicize_pending: '1'
+  _thumbnail_id: '64'
+  _import_session_id: 616e76c35e857
+  _import_original_post_id: '70'
+author:
+  login: martynm12d
+  email: martyn@m12d.com
+  display_name: Martyn Coupland
+  first_name: Martyn
+  last_name: Coupland
+permalink: "/2020/11/20/breaking-changes-to-github-actions/"
+---
+<p><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><br />
+<html><body></p>
+<p>While GitHub did indicate that a warning would appear that the culprit commands would in time be deprecated, this breaking change appears to have caught a number of people off guard. In my workflow for this blog I had noticed for some time that an error was displayed advising me that the <code>set-env</code> command in my case executed during the installation of Ruby was deprecated and soon to be disabled.</p>
+<p>You can actually work around this issue quite easily, until all subsequent actions are updated at least downstream, you can add an environment variable to the command affected to allow the use of unsecure commands using the <code>ACTIONS_ALLOW_UNSECURE_COMMANDS</code> variable set to <code>true</code>. It can be set to true quite easily in your workflow as shown below.</p>
+<pre><code class="language-yaml">- name: Install Ruby    uses: ruby/setup-ruby@ec106b438a1ff6ff109590de34ddc62c540232e0    env:        ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'    with:        ruby-version: 2.6</code></pre>
+<p>Once committed to the repository, the workflow will run depending on your configuration and should now complete without error.</p>
+<p></body></html></p>

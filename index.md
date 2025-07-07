@@ -1,7 +1,6 @@
 ---
 layout: home
-title: Jekyll Atlantic Theme
-heading: <em>Jekyll Tailwind</em> Starter Blog
-description: Atlantic is a beautiful Tailwind CSS theme for Jekyll. It shows best practices for using Tailwind with Jekyll.
-
+title: Home
+heading: Code. Ship. <em>Lead.</em>
+description: Insights on .NET development, software engineering best practices, DevOps strategies, and leadership in tech—helping engineers grow and build impactful software.
 ---

@@ -1,0 +1,74 @@
+---
+layout: post
+title: "Breaking Down Agile Terminology"
+date: 2020-11-24 21:01:00.000000000 +00:00
+description: "In this post, we are not looking at the implementation of these terms in your organisation but more what they mean in the wider context. You may then deduce their use in your own organisation from that description. Let’s begin with a bit of background though. One of the most famous implementation of this terminology I think is Spotify, the model implemented by Spotify is actually fairly famous in the Agile world and I have seen many organisations blindly follow this implementation, usually that blindness leads to failure."
+layout: post
+authors: ["Martyn Coupland"]
+categories: ["Agile", "Spotify Model"]
+thumbnail: "/assets/images/posts/2020/11/b39e3-photo-1512758017271-d7b84c2113f1.jpg"
+image: "/assets/images/posts/2020/11/b39e3-photo-1512758017271-d7b84c2113f1.jpg"
+---
+
+Key thing here and maybe something for another post is that unless you are a media streaming company, based in Sweden, then the same approach is unlikely to work for your organisation, given the unique culture and context of your organisation. The main thing to remember is that squads, tribes, chapters and guilds are all mechanisms you can use to help you scale Agile, this is a very important concept as you roll out Agile wider in your organisation.
+
+# Problem Statement
+
+The real question is, when you scale to have a large number of Agile teams which span over multiple physical locations and maybe even time zones, how do you manage it all? The answer is with squads, tribes, chapters and guilds.
+
+![Diagram showing the famous Spotify model for scaling Agile.](/assets/images/posts/2020/11/spotify_model.png)
+
+Take a look at the above diagram, coined the **Spotify Model**, this shows you teams of six people in squads, aligned to product owners, multiple squads make up a tribe and within those tribes across members of squads you have chapters. Then finally, a guild is created across multiple members of different squads.
+
+# Squads
+
+In simple terms, a squad is a team of developers. Think of a squad like a Scrum team in many ways, designed to feel like a small start-up. These teams will usually sit together and have everything they need in terms of skills and tooling to be able to design, develop, test and release through to production. Squads will decide their own way of working, this means some will practice Scrum sprints, some will use Kanban and others will use a combination, commonly known as Scrumban.
+
+Every single squad has a goal such as building a specific feature of an application, such as management of the public website, writing the mobile application or something else. Different squads could even be responsible for each part of the user experience.
+
+![Screenshot showing the Spotify Desktop UI, highlighting feature areas](/assets/images/posts/2020/11/spotify_ui_example.png)
+
+Take the above image of the Spotify desktop UI. The white boxes outline that a different squad has responsibility for that part of the interface. You can see that in this example, we have different squads responsible for the playlists section, the now playing bar, device and audio control and the friends list. This granular level can provide high levels of scalability while not compromising on quality.
+
+Squads are also encourages to apply principles such as minimum viable product or MVP, this means releasing early and often. I recall a quote in the first article I read about this subject which summarised the slogan “Think it, build it, ship it, tweak it”. As each squad has a laser focus on one mission and one part of the product for such a period of time, they become key experts.
+
+# Tribes
+
+Tribes are collections of squads, these tribes are all squads which work in related parts of the product, using the Spotify example, all our squads above could be in a tribe for the desktop application, desktop UI, or something else, you get the idea. Each tribe also has a tribe leader, it is the responsibility of the tribe leader to ensure that the tribe has everything the squads need. If possible and preferably, all squads within a tribe should sit in the same physical location. Communal areas should promote levels of collaboration between the squads also.
+
+Have you heard of Dunbar’s Number? In an ideal world, tribes should be sized according to this theory. Which states that most people cannot maintain social relationships with more than around 100 people. When the group is bigger than this number, you start to see restrictive rules, politics and extra layers of management adding bureaucracy and other areas of waste. For this reason, design tribes so they contain less than 100 people.
+
+Tribes will also meet on a regular basis as well, in an informal way to demonstrate what they are working on, what has been delivered and what others can learn from them. This can include live demos, new features, tools, techniques and the outcomes of any hackathons you might do.
+
+One of the challenges with scalability and a high degree of autonomy is the loss of economies. For example, a developer in one squad may be working on a problem that a developer in another squad solved the other week. This is exactly what chapters and guilds are aimed at solving.
+
+# Chapters
+
+Chapters, just like guilds are the glue that keeps the company together. After all, with high levels of autonomy, and no communication between squads and tribes, you may as well split your company into lots of small ones. Chapters and guilds give you the advantage of economies of scale without sacrificing too much autonomy.
+
+A chapter for this reason, referring to the diagram at the top of the post, is a small group of people who have similar skills and work within the same general area, or within the same tribe. This means that developers, testers, security professionals and any role really can make use of other people with similar skills who are also working in the same tribe, this glue means that within a chapter you have deep expertise within your domain area and can share skills and pull on others who understand the domain area you are working in.
+
+Chapters will also work regularly to discuss their area of expertise and any specific challenges they have. Leaders of chapters are the line managers for members of that chapter. For example, if you were a .NET developer in a chapter in the payments tribe, you could be described as the Payments Development Lead. You maintain traditional responsibilities for meeting your team on a one to one basis, developing individuals and setting salaries. The chapter lead however is also part of a squad and is involved in day to day work, helping them stay in touch with what is happening.
+
+In reality, some chapter members are not evenly distributed across squads, some have developers, some do not, some have more than others. Hopefully the diagram gives you an idea how how this should work.
+
+# Guilds
+
+Guilds are more like community groups. A guild is people who want to share knowledge, tools, code, practices. Where a chapter is local to a tribe, a guild is spread over the whole organisation. You can have any number of guilds in your organisation, for example, consider the following as examples:
+
+- Testing guild
+- Cloud technology guild
+- Agile coaching guild
+- Scrum Master guild
+
+A guild will often include all chapters working in that area and their members, for example the cloud technology guild would include all infrastructure engineers in all chapters across the organisation, but generally, anyone who is interested in learning more and contributing can join a guild. Each guild has a coordinator who is responsible for organising any meetings of the guild and any activities which they perform. Guilds may do hackathons, get together, discuss challenges and solutions within their field of expertise for example.
+
+# Summary
+
+All of this together just described a matrix style organisation doesn’t it? It does, but not the one you are used to! Usually, people with similar skills are grouped together into functional teams and then assigned to projects and report to a manager of that team, who then reports to a senior leader in that area. The matrix we build and work in above is geared towards delivery.
+
+Think of it in two dimensions, the horizontal dimension is one for sharing knowledge, tools and code. The vertical dimension is the primary one and where people collaborate and organise to deliver great products. This describes how people are physically grouped together and where they spend most of their time. In matrix terms,think of the vertical dimension as “what” and the horizontal dimension as “how”. The matrix structure ensures that each squad member can get guidance on “what to build next” as well as “how to build it well”.
+
+![Matrix model showing differences between horizontal and vertical roles](/assets/images/posts/2020/11/matrix_model.png)
+
+This matches the professor and entrepreneur model from <a href="http://www.poppendieck.com/">Mary and Tom Poppendieck</a>. The product owner is the entrepreneur or the champion, focusing on delivery of a great product and the chapter lead is the professor or competency leader, focusing on the technical excellence. You may find a healthy tension between these two roles, the entrepreneur wants to go faster and the professor wants to slow down and build properly. In truth, both are needed.

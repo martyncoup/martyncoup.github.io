@@ -6,8 +6,8 @@ description: "Every Christmas Eve, millions of children follow Santa’s journey
 layout: post
 authors: ["Martyn Coupland"]
 categories: ["Festive Tech Calendar", ".NET", "Blazor", "SignalR"]
-thumbnail: "/assets/images/posts/2025/12/merry-christmas-2999722_1280"
-image: "/assets/images/posts/2025/12/merry-christmas-2999722_1280"
+thumbnail: "/assets/images/posts/2025/12/merry-christmas-2999722_1280.jpg"
+image: "/assets/images/posts/2025/12/merry-christmas-2999722_1280.jpg"
 ---
 
 Every Christmas Eve, millions of children follow Santa’s journey around the world. This year, we’re going one step further: we’re building our own real-time Santa Tracker, powered by .NET, Blazor, SignalR, and a sprinkle of North Pole magic.

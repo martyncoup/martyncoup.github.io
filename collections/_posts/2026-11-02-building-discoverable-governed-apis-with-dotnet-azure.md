@@ -249,6 +249,7 @@ An API inventory becomes more than a technical list of endpoints. It becomes a w
 
 The following architecture illustrates how the components fit together.
 
+```mermaid
 flowchart TB
 subgraph DEV["API Engineering"]
 CODE[".NET 10 API"]
@@ -276,6 +277,7 @@ end
 
     CI -->|"Publish API definition"| APIM
     APIM -->|"Synchronise APIs and definitions"| CENTER
+```
 
 The flow is straightforward:
 

@@ -19,5 +19,8 @@
     </div>
     {% include google-analytics.html %}
     <script type="text/javascript" src="{{ '/assets/js/hamburger.js' | relative_url }}"></script>
+    {% if content contains 'language-mermaid' %}
+      <script type="module" src="{{ '/assets/js/mermaid.js' | relative_url }}"></script>
+    {% endif %}
   </body>
 </html>

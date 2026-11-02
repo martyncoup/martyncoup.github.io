@@ -6,8 +6,8 @@ description: "Building APIs is relatively straightforward. Building an API estat
 layout: post
 authors: ["Martyn Coupland"]
 categories: ["API Architecture", ".NET", "Azure Integration PaaS"]
-thumbnail: "images.unsplash.com/photo-1676911809746-85d90edbbe4a?q=80&w=640"
-image: "images.unsplash.com/photo-1676911809746-85d90edbbe4a?q=80&w=1600"
+thumbnail: "https://images.unsplash.com/photo-1676911809746-85d90edbbe4a?q=80&w=640"
+image: "https://images.unsplash.com/photo-1676911809746-85d90edbbe4a?q=80&w=1600"
 ---
 
 APIs have become the connective tissue of modern enterprise architecture. They enable applications to communicate, support partner integrations, expose business capabilities and increasingly provide the interfaces through which AI agents interact with enterprise systems.

@@ -6,8 +6,8 @@ description: "Building APIs is relatively straightforward. Building an API estat
 layout: post
 authors: ["Martyn Coupland"]
 categories: ["API Architecture", ".NET", "Azure Integration PaaS"]
-thumbnail: "https://images.unsplash.com/photo-1676911809746-85d90edbbe4a?q=80&w=640"
-image: "https://images.unsplash.com/photo-1676911809746-85d90edbbe4a?q=80&w=1600"
+thumbnail: "https://images.unsplash.com/photo-1551263640-1c007852f616?q=80&w=640"
+image: "https://images.unsplash.com/photo-1551263640-1c007852f616?q=80&w=1600"
 ---
 
 APIs have become the connective tissue of modern enterprise architecture. They enable applications to communicate, support partner integrations, expose business capabilities and increasingly provide the interfaces through which AI agents interact with enterprise systems.
@@ -31,7 +31,7 @@ Different teams build APIs to support their applications, integrations and busin
 Over time, several challenges emerge:
 
 - Discoverability: Developers don't know whether an API already exists before building another one.
-  -- Ownership: There is no clear accountability for API maintenance and lifecycle management.
+- Ownership: There is no clear accountability for API maintenance and lifecycle management.
 - Consistency: API naming, versioning, authentication and documentation vary between teams.
 - Governance: Standards are documented but not consistently enforced.
 - Visibility: Architecture teams lack a reliable inventory of the organisation's API estate.
@@ -48,7 +48,7 @@ or REST APIs, OpenAPI provides a machine-readable description of an API's capabi
 
 It describes endpoints, operations, parameters, request and response schemas, and security requirements. This makes it useful not only for documentation, but also for tooling, testing, code generation and integration.
 
-ASP.NET Core has built-in OpenAPI document generation through the Microsoft.AspNetCore.OpenApi package.
+ASP.NET Core has built-in OpenAPI document generation through the `Microsoft.AspNetCore.OpenApi` package.
 
 For a new .NET 10 application:
 

@@ -4,7 +4,7 @@ title: "About"
 date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
 description: "Business plan hackathon handshake responsive web design."
-image: "https://source.unsplash.com/Dq5P6eWZXNY/1600x900"
+image: "https://images.unsplash.com/photo-1543332164-6e82f355badc?q=80&w=1600"
 ---
 
 ## Technology is about solving problems, not just building solutions.

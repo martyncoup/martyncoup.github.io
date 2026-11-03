@@ -8,3 +8,9 @@ main:
   - name: "About"
     url: "/about/"
     weight: 3
+  - name: "Speaking"
+    url: "/speaking/"
+    weight: 4
+  - name: "Categories"
+    url: "/categories/"
+    weight: 5

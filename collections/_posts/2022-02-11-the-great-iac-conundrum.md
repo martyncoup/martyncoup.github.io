@@ -4,7 +4,7 @@ layout: post
 title: "The Great IaC Conundrum"
 date: "2022-02-11 14:01:02.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["ARM", "Bicep", "Iac", "Infrastructure as Code", "IT Pro", "Pulumi", "Terraform"]
+categories: ["DevOps and Platform Engineering"]
 thumbnail: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=640"
 image: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=1600"
 ---

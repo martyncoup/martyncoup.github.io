@@ -4,7 +4,7 @@ layout: post
 title: "Taking a Look at Polywork"
 date: "2021-08-18 10:02:00.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Polywork", "Product Review", "Review", "Reviews"]
+categories: ["Product Reviews"]
 thumbnail: "https://images.unsplash.com/photo-1579458342405-52d7d969e0d4?q=80&w=640"
 image: "https://images.unsplash.com/photo-1579458342405-52d7d969e0d4?q=80&w=1600"
 ---

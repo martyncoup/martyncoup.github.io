@@ -3,7 +3,7 @@ layout: post
 title: "Protecting Web APIs Using Microsoft Identity Platform: Part 2"
 date: "2021-08-11 08:29:46.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Development", "DotNet", "Identity"]
+categories: ["API Management and Integration"]
 thumbnail: "https://images.unsplash.com/photo-1551263640-1c007852f616?q=80&w=640"
 image: "https://images.unsplash.com/photo-1551263640-1c007852f616?q=80&w=1600"
 ---

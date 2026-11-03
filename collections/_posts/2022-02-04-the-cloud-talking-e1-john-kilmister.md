@@ -4,7 +4,7 @@ layout: post
 title: "The Cloud Talking - E1 - John Kilmister"
 date: "2022-02-04 16:08:49.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Community", "John Kilmister", "Podcast", "Sandwich Years", "Serverless", "Software Engineering", "The Cloud Talking"]
+categories: ["Community"]
 thumbnail: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=640"
 image: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=1600"
 ---

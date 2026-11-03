@@ -5,7 +5,7 @@ date: 2020-09-08 20:21:00.000000000 +01:00
 description: "Creating a custom helper is easier than you would think. So to keep things easy for us, we are going to use the configuration file appsettings.json to store the base path to our CDN. This will make it easier to change our root without having to update the whole of our application."
 layout: post
 authors: ["Martyn Coupland"]
-categories: [".NET", "Snippets"]
+categories: [".NET Development"]
 thumbnail: "/assets/images/posts/2020/09/b1fde-photo-1542831371-29b0f74f9713.jpg"
 image: "/assets/images/posts/2020/09/b1fde-photo-1542831371-29b0f74f9713.jpg"
 ---

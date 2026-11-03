@@ -3,7 +3,7 @@ layout: post
 title: "The Sun Sets on TechWeek Humber 2022"
 date: "2022-11-11 12:00:00.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Speaking", "Community", "Conferences", "Education"]
+categories: ["Community"]
 image: "https://cdn.m12d.com/posts/the-sun-sets-on-techweek-humber-2022/DSC09031.jpg"
 thumbnail: "https://cdn.m12d.com/posts/the-sun-sets-on-techweek-humber-2022/DSC09031.jpg"
 ---

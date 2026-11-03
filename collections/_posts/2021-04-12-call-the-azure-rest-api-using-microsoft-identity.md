@@ -4,7 +4,7 @@ layout: post
 title: "Call the Azure REST API using Microsoft Identity Web"
 date: "2021-04-12 13:17:24.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Azure", "Development", "Dot Net Core", "Identity", "REST API"]
+categories: ["API Management and Integration"]
 thumbnail: "https://images.unsplash.com/photo-1551263640-1c007852f616?q=80&w=640"
 image: "https://images.unsplash.com/photo-1551263640-1c007852f616?q=80&w=1600"
 ---

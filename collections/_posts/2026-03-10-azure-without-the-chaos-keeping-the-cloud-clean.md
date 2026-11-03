@@ -5,7 +5,7 @@ date: 2026-03-10 11:10:00.000000000 +00:00
 description: "If you’ve ever inherited an Azure estate and thought, 'How did we get here?', this one’s for you. It’s rarely one big mistake that creates a messy cloud, it’s hundreds of small decisions that compound: one-off subscriptions, ad-hoc policies, inconsistent tagging, unclear ownership, reactive cost cuts, and “governance” that exists only in a wiki. The good news? You don’t need a massive transformation program to fix it. You need strong defaults, light guardrails, and a way to make the right thing the easy thing."
 layout: post
 authors: ["Martyn Coupland"]
-categories: ["Azure Spring Clean","Azure","Governance","Management"]
+categories: ["Cloud Operations and FinOps"]
 thumbnail: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=640"
 image: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=1600"
 ---

@@ -4,7 +4,7 @@ layout: post
 title: "Why Diversity Matters as a Leader"
 date: "2021-03-15 19:13:28.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Diversity", "Hiring", "Inclusion", "Leadership"]
+categories: ["Technology Leadership"]
 thumbnail: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=640"
 image: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=1600"
 ---

@@ -5,7 +5,7 @@ date: 2020-09-08 20:26:00.000000000 +01:00
 description: "When it comes to the cloud, building scalable, secure, and reliable applications is key. I wrote this post with the cloud in mind, the same principles can apply to any system. So first, let’s look at the key challenges when developing in the cloud."
 layout: post
 authors: ["Martyn Coupland"]
-categories: ["Cloud Native", "IT Pro"]
+categories: ["Azure Architecture"]
 thumbnail: "/assets/images/posts/2020/09/13eca-photo-1545987796-200677ee1011.jpg"
 image: "/assets/images/posts/2020/09/13eca-photo-1545987796-200677ee1011.jpg"
 ---

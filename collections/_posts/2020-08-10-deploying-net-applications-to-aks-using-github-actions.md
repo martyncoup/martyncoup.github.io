@@ -5,7 +5,7 @@ date: 2020-08-10 20:43:00.000000000 +01:00
 description: "To start this post, I want to assume you are already familiar with the process of creating Azure Functions. In order to follow this post, you will need to have an Azure Function already deployed (could be empty though) and a project in Azure DevOps which you have access to."
 layout: post
 authors: ["Martyn Coupland"]
-categories: ["GitHub", "Serverless", ".NET"]
+categories: ["DevOps and Platform Engineering"]
 thumbnail: "/assets/images/posts/2019/07/822b2-photo-1612438137269-70c848e102e1.jpg"
 image: "/assets/images/posts/2019/07/822b2-photo-1612438137269-70c848e102e1.jpg"
 ---

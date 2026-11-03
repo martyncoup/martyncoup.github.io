@@ -4,7 +4,7 @@ layout: post
 title: "Auto-Scaling .NET Core Web API Containers"
 date: "2021-10-20 11:20:27.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: [".NET", "AKS", "Containers", "Development", "Warmup"]
+categories: [".NET Development"]
 thumbnail: "https://images.unsplash.com/photo-1579458342405-52d7d969e0d4?q=80&w=640"
 image: "https://images.unsplash.com/photo-1579458342405-52d7d969e0d4?q=80&w=1600"
 ---

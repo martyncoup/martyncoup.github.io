@@ -4,7 +4,7 @@ layout: post
 title: "Elgato Product Review"
 date: "2022-01-28 11:46:02.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Community", "Elgato", "Facecam", "Key Light", "Products", "Review", "Reviews", "Stream Deck Mini", "Wave3"]
+categories: ["Product Reviews"]
 thumbnail: "https://images.unsplash.com/photo-1579458342405-52d7d969e0d4?q=80&w=640"
 image: "https://images.unsplash.com/photo-1579458342405-52d7d969e0d4?q=80&w=1600"
 ---

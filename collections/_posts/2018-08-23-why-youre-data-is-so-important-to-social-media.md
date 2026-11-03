@@ -5,7 +5,7 @@ date: 2018-08-23 17:19:47.000000000 +01:00
 description: "Today, our lives are lived online. We wake up and a large percentage of us check our email on our mobile device. Followed by a check of our social media accounts. Chances are throughout the day we will keep checking our social media accounts and our email through the same devices."
 layout: post
 authors: ["Martyn Coupland"]
-categories: ["Thought Leadership", "Data"]
+categories: ["Technology Leadership"]
 thumbnail: "/assets/images/posts/2018/08/social_media.jpeg"
 image: "/assets/images/posts/2018/08/social_media.jpeg"
 ---

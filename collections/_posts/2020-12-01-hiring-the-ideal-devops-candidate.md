@@ -4,7 +4,7 @@ layout: post
 title: "Hiring the Ideal DevOps Candidate"
 date: "2020-12-01 20:53:00.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Career", "DevOps", "Engineering", "Hiring"]
+categories: ["Technology Leadership"]
 thumbnail: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=640"
 image: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=1600"
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "It can be a lonely place..."
 date: "2021-11-05 11:19:51.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Community", "Mental Health", "Wellbeing"]
+categories: ["Community"]
 ---
 
 I love the community that I am part of, I can get help from any number of incredibly kind humans who go the extra mile to make sure you get the result you want. Sometimes though, as with everything in life it takes its toll. I wanted to share something more personal with you.

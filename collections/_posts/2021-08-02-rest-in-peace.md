@@ -3,7 +3,7 @@ layout: post
 title: "Rest in Peace, Abel"
 date: "2021-08-02 12:57:13.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Abel Wang", "AbelSquidHead", "Community", "Microsoft"]
+categories: ["Community"]
 ---
 
 As many of you will know, last week, we lost one of the shining lights of our wonderful technical community. Abel Wang (aka. [AbelSquidHead](https://twitter.com/AbelSquidHead)), sadly lost his fight against cancer.

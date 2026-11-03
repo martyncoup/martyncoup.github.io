@@ -4,7 +4,7 @@ layout: post
 title: "Breaking Changes to GitHub Actions"
 date: "2020-11-20 21:10:00.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Breaking Changes", "GitHub", "GitHub Actions"]
+categories: ["DevOps and Platform Engineering"]
 thumbnail: "https://images.unsplash.com/photo-1579458342405-52d7d969e0d4?q=80&w=640"
 image: "https://images.unsplash.com/photo-1579458342405-52d7d969e0d4?q=80&w=1600"
 ---

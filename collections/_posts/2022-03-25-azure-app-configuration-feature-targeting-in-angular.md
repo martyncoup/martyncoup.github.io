@@ -3,7 +3,7 @@ layout: post
 title: "Azure App Configuration Feature Targeting in Angular"
 date: "2022-03-25 15:55:00.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["App Config", "Development", "Angular", "TypeScript"]
+categories: ["Development"]
 image: "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg"
 thumbnail: "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg"
 ---

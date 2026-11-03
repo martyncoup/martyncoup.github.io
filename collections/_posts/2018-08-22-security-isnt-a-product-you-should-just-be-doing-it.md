@@ -5,7 +5,7 @@ date: 2018-08-22 18:05:25.000000000 +01:00
 description: "I work for a service provider of public cloud services. Security is very important to us, in fact it’s the top of everything we do, in order to provide our clients with the confidence they need we have processes, compliance programs and controls in place to prevent a number of threat vectors."
 layout: post
 authors: ["Martyn Coupland"]
-categories: ["Thought Leadership", "Security"]
+categories: ["Technology Leadership"]
 thumbnail: "/assets/images/posts/2018/08/b797d-13uwda3ltuxgrnqu_pewgaa.jpeg"
 image: "/assets/images/posts/2018/08/b797d-13uwda3ltuxgrnqu_pewgaa.jpeg"
 ---

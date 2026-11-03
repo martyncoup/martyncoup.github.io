@@ -4,7 +4,7 @@ layout: post
 title: "Presenting at Microsoft Build"
 date: "2021-05-13 08:56:15.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Microsoft Build", "MSBuild", "Speaking"]
+categories: ["Community"]
 thumbnail: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=640"
 image: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=1600"
 ---

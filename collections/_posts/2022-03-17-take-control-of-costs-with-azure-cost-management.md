@@ -3,7 +3,7 @@ layout: post
 title: "Take Control of Costs with Azure Cost Management"
 date: "2022-03-17 00:00:00.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Cost Management", "Community", "Speaking", "Azure Spring Clean"]
+categories: ["Cloud Operations and FinOps"]
 image: "https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg"
 thumbnail: "https://images.pexels.com/photos/53621/calculator-calculation-insurance-finance-53621.jpeg"
 ---

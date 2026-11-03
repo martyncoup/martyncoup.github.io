@@ -3,7 +3,7 @@ layout: post
 title: "The Great Cloud Repatriation of 2023"
 date: "2023-01-10 13:33:00.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Cloud", "Migration", "Management", "Thought"]
+categories: ["Cloud Operations and FinOps"]
 image: "https://cdn.m12d.com/posts/the-great-cloud-repatriation-of-2023/network-gedb7251c2_640.jpg"
 thumbnail: "https://cdn.m12d.com/posts/the-great-cloud-repatriation-of-2023/network-gedb7251c2_640.jpg"
 ---

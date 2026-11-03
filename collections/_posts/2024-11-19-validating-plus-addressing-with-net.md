@@ -5,7 +5,7 @@ date: 2024-11-19 20:55:42.000000000 +00:00
 description: "Following a conversation about how great plus addressing is, I discussed some scenarios. You could use plus addressing to abuse a discount code, for example. Let's look at some code to see if a plus address matches the root email address."
 layout: post
 authors: ["Martyn Coupland"]
-categories: [".NET", "Snippets"]
+categories: [".NET Development"]
 thumbnail: "/assets/images/posts/2024/11/plus-address-cover.png"
 image: "/assets/images/posts/2024/11/plus-address-cover.png"
 ---

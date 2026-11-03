@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to API Architecture Types"
 date: "2023-02-01 08:51:00.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Cloud", "API", "Architecture", "Development", "REST", "GraphQL", "SOAP", "RPC", "Kafka"]
+categories: ["API Management and Integration"]
 image: "https://cdn.m12d.com/posts/introduction-to-api-architecture-types/architecture-g0766ab6e3_640.jpg"
 thumbnail: "https://cdn.m12d.com/posts/introduction-to-api-architecture-types/architecture-g0766ab6e3_640.jpg"
 ---

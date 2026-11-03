@@ -5,7 +5,7 @@ date: 2019-07-29 20:54:00.000000000 +01:00
 description: "Let me start by saying fundamentally, Azure DevOps is a platform agnostic tool. You can use many different languages to deploy to many platforms. If you build in Node.JS, Python, Java, PHP, Ruby, C/C++, or .NET then you can use Azure DevOps. Likewise, if you deploy to Azure, AWS, GCP or even on-premise then you can use Azure DevOps. This makes it a really powerful tool. As expected, you can also deploy containers and push images to various different registries."
 layout: post
 authors: ["Martyn Coupland"]
-categories: ["Azure DevOps"]
+categories: ["DevOps and Platform Engineering"]
 thumbnail: "/assets/images/posts/2019/07/822b2-photo-1612438137269-70c848e102e1.jpg"
 image: "/assets/images/posts/2019/07/822b2-photo-1612438137269-70c848e102e1.jpg"
 ---

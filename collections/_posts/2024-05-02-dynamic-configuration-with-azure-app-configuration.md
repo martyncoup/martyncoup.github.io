@@ -3,7 +3,7 @@ title: "Dynamic Configuration with Azure App Configuration"
 date: 2024-05-02T09:38:03+00:00
 layout: post
 authors: ["Martyn Coupland"]
-categories: ["Azure App Dev", ".NET", "TypeScript"]
+categories: ["Development"]
 description: "Azure App Configuration provides a service to centrally manage application settings and feature flags. Modern programs, especially programs running in a cloud, generally have many components that are distributed in nature."
 thumbnail: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=640"
 image: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=1600"

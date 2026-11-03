@@ -4,7 +4,7 @@ layout: post
 title: "Upcoming Speaking Engagements"
 date: "2021-08-03 12:51:20.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Speaking"]
+categories: ["Community"]
 thumbnail: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=640"
 image: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=1600"
 ---

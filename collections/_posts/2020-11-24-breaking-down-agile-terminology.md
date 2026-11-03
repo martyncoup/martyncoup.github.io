@@ -5,7 +5,7 @@ date: 2020-11-24 21:01:00.000000000 +00:00
 description: "In this post, we are not looking at the implementation of these terms in your organisation but more what they mean in the wider context. You may then deduce their use in your own organisation from that description. Let’s begin with a bit of background though. One of the most famous implementation of this terminology I think is Spotify, the model implemented by Spotify is actually fairly famous in the Agile world and I have seen many organisations blindly follow this implementation, usually that blindness leads to failure."
 layout: post
 authors: ["Martyn Coupland"]
-categories: ["Agile", "Spotify Model"]
+categories: ["Technology Leadership"]
 thumbnail: "/assets/images/posts/2020/11/b39e3-photo-1512758017271-d7b84c2113f1.jpg"
 image: "/assets/images/posts/2020/11/b39e3-photo-1512758017271-d7b84c2113f1.jpg"
 ---

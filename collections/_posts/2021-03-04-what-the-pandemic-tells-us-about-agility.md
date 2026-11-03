@@ -4,7 +4,7 @@ layout: post
 title: "What the Pandemic Tells Us About Agility"
 date: "2021-03-04 19:21:49.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Adoption", "Agile", "Pandemic"]
+categories: ["Technology Leadership"]
 thumbnail: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=640"
 image: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=1600"
 ---

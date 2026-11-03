@@ -4,7 +4,7 @@ layout: post
 title: "Azure App Configuration in .NET 5 Azure Functions"
 date: "2021-06-22 13:18:03.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: [".NET 5", "Azure App Configuration", "Azure Functions", "Development"]
+categories: [".NET Development"]
 thumbnail: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=640"
 image: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=1600"
 ---

@@ -5,7 +5,7 @@ date: 2026-11-02 16:43:00.000000000 +00:00
 description: "Building APIs is relatively straightforward. Building an API estate that is discoverable, governed and reusable across an enterprise is a different challenge. In this article, we explore how .NET 10, OpenAPI, Azure API Management and Azure API Center work together to establish a more mature API lifecycle, from development and contract validation through to runtime governance, enterprise discovery and AI readiness."
 layout: post
 authors: ["Martyn Coupland"]
-categories: ["API Architecture", ".NET", "Azure Integration PaaS", "Notes from the Field"]
+categories: ["API Management and Integration"]
 thumbnail: "https://images.unsplash.com/photo-1551263640-1c007852f616?q=80&w=640"
 image: "https://images.unsplash.com/photo-1551263640-1c007852f616?q=80&w=1600"
 ---

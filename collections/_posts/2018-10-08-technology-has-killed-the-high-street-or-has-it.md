@@ -5,7 +5,7 @@ date: 2018-10-08 19:01:04.000000000 +01:00
 description: "The high street is going through a revolution. In 2017, the UK high street suffered around 5,855 closures, in 2018 the high street continues to struggle with the closures of stores at Toys R Us, Maplin, Carpetright, Prezzo, Mothercare, Poundworld, Byron, Topshop and House of Fraser all announcing closures or dissapearing from the high street all together."
 layout: post
 authors: ["Martyn Coupland"]
-categories: ["Thought Leadership"]
+categories: ["Technology Leadership"]
 thumbnail: "/assets/images/posts/2018/10/1*TSxKmj4io8L9yEVcOxrcxg.jpeg"
 image: "/assets/images/posts/2018/10/1*TSxKmj4io8L9yEVcOxrcxg.jpeg"
 ---

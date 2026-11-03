@@ -5,7 +5,7 @@ date: 2026-11-03 15:38:00.000000000 +00:00
 description: "Join me throughout December for 24 days of practical .NET development, Azure Integration PaaS, API management and AI innovation."
 layout: post
 authors: ["Martyn Coupland"]
-categories: ["Advent Calendar", ".NET", "Azure", "MCP", "AI", "Cloud Architecture", "APIs"]
+categories: [".NET Development", "Azure Architecture", "API Management and Integration", "AI and Intelligent Applications"]
 thumbnail: "https://images.unsplash.com/photo-1606482512676-255bf02be7cf?q=80&w=640"
 image: "https://images.unsplash.com/photo-1606482512676-255bf02be7cf?q=80&w=1600"
 ---

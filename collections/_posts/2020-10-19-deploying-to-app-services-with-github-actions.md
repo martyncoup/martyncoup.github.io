@@ -4,7 +4,7 @@ layout: post
 title: "Deploying to App Services with GitHub Actions"
 date: "2020-10-19 20:16:00.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["App Services", "Azure", "GitHub Actions"]
+categories: ["DevOps and Platform Engineering"]
 thumbnail: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=640"
 image: "https://images.unsplash.com/photo-1593153041370-5ebf6b82886a?q=80&w=1600"
 ---

@@ -4,7 +4,7 @@ date: 2024-12-27 21:13:25.000000000 +00:00
 description: "This year, I am making a second contribution to the Festive Tech Calendar 2024. I will share insights on using several resiliency patterns. These patterns are essential for building your microservices."
 layout: post
 authors: ["Martyn Coupland"]
-categories: ["APIs", ".NET"]
+categories: [".NET Development"]
 thumbnail: "https://images.unsplash.com/photo-1579458342405-52d7d969e0d4?q=80&w=640"
 image: "https://images.unsplash.com/photo-1579458342405-52d7d969e0d4?q=80&w=1600"
 ---

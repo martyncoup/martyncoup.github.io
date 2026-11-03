@@ -5,7 +5,7 @@ date: 2020-09-03 20:30:00.000000000 +01:00
 description: "There is a medieval French phrase, the modern form of this is “Rome ne s’est pas faite en un jour”. Translated that means “Rome wasn’t built in a day”. It’s an adage attesting to the need for time to create great things. One of the things I commonly hear from IT Pros is the sheer amount of technology in play. How distributed it all is and how hard it is to learn if you don’t have a software engineering background."
 layout: post
 authors: ["Martyn Coupland"]
-categories: ["Cloud Native", "IT Pro"]
+categories: ["Azure Architecture"]
 thumbnail: "/assets/images/posts/2020/09/13eca-photo-1545987796-200677ee1011.jpg"
 image: "/assets/images/posts/2020/09/13eca-photo-1545987796-200677ee1011.jpg"
 ---

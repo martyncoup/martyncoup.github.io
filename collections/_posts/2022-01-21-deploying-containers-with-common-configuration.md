@@ -4,7 +4,7 @@ layout: post
 title: "Deploying Containers with Common Configuration"
 date: "2022-01-21 15:52:30.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["AKS", "Azure DevOps", "Containers", "Pipelines"]
+categories: ["DevOps and Platform Engineering"]
 thumbnail: "https://images.unsplash.com/photo-1579458342405-52d7d969e0d4?q=80&w=640"
 image: "https://images.unsplash.com/photo-1579458342405-52d7d969e0d4?q=80&w=1600"
 ---

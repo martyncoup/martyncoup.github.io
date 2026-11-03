@@ -4,7 +4,7 @@ layout: post
 title: "Effective App Roles in Multi-Tenant Applications"
 date: "2021-04-06 10:05:35.000000000 +00:00"
 authors: ["Martyn Coupland"]
-categories: ["Authorization", "Azure AD", "Cloud Management Platform", "Dot Net Core", "Identity"]
+categories: [".NET Development"]
 thumbnail: "https://images.unsplash.com/photo-1551263640-1c007852f616?q=80&w=640"
 image: "https://images.unsplash.com/photo-1551263640-1c007852f616?q=80&w=1600"
 ---

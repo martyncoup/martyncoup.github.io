@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "https://blog.m12d.com/"
 permalink: pretty
 title: "Martyn Coupland"
 collections_dir: collections

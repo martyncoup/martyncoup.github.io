@@ -249,35 +249,7 @@ An API inventory becomes more than a technical list of endpoints. It becomes a w
 
 The following architecture illustrates how the components fit together.
 
-```mermaid
-flowchart TB
-subgraph DEV["API Engineering"]
-CODE[".NET 10 API"]
-OAS["OpenAPI Contract"]
-CI["CI/CD Pipeline"]
-CODE --> OAS
-OAS --> CI
-end
-
-    subgraph RUNTIME["Runtime Platform"]
-        APIM["Azure API Management"]
-        BACKEND["Backend Services"]
-        CONSUMERS["Applications and Partners"]
-        CONSUMERS --> APIM
-        APIM --> BACKEND
-    end
-
-    subgraph GOVERNANCE["Enterprise API Governance"]
-        CENTER["Azure API Center"]
-        INVENTORY["API Inventory and Metadata"]
-        DISCOVERY["Developer Discovery"]
-        CENTER --> INVENTORY
-        INVENTORY --> DISCOVERY
-    end
-
-    CI -->|"Publish API definition"| APIM
-    APIM -->|"Synchronise APIs and definitions"| CENTER
-```
+![Architecture Diagram](/assets/images/posts/2026/discoverable-governed-apis.webp)
 
 The flow is straightforward:
 

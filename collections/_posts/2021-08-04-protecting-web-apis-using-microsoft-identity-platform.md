@@ -8,12 +8,6 @@ thumbnail: "https://images.unsplash.com/photo-1551263640-1c007852f616?q=80&w=640
 image: "https://images.unsplash.com/photo-1551263640-1c007852f616?q=80&w=1600"
 ---
 
-The following posts are part of this series:
-
-- [Part 1: Creating your App Registration](https://blog.m12d.com/protecting-web-apis-using-microsoft-identity-platform/?utm_source=inpost&utm_medium=click&utm_campaign=blog)
-- [Part 2: Configuring your code](https://blog.m12d.com/protecting-web-apis-using-microsoft-identity-platform-part-2/?utm_source=inpost&utm_medium=click&utm_campaign=blog)
-- [Part 3: Securing your API endpoints](https://blog.m12d.com/protecting-web-apis-using-microsoft-identity-platform-part-3/?utm_source=inpost&utm_medium=click&utm_campaign=blog)
-
 # Let's begin
 
 I'm not going to cover the steps involved in creating an app registration. This is covered, in detail, in the Microsoft [documentation](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app). In this article though, I want to point out some important things.

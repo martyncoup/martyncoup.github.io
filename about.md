@@ -3,7 +3,7 @@ layout: basic
 title: "About"
 date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
-description: "Business plan hackathon handshake responsive web design."
+description: "Practical perspectives on Microsoft Azure, .NET, APIs, AI, software engineering and technology leadership."
 image: "https://images.unsplash.com/photo-1543332164-6e82f355badc?q=80&w=1600"
 ---
 

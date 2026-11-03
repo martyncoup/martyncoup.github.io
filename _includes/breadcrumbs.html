@@ -1,0 +1,23 @@
+{% assign breadcrumb_title = page.title | default: page.heading | default: page.name %}
+{% if page.url == '/blog/' %}
+  {% assign breadcrumb_title = 'Blog' %}
+{% endif %}
+
+<nav aria-label="Breadcrumb" class="py-3 text-sm text-gray-500">
+  <ol class="flex flex-wrap items-center gap-2">
+    {% if page.url == '/' %}
+      <li aria-current="page" class="text-gray-800">Home</li>
+    {% else %}
+      <li><a class="hover:text-gray-800 hover:underline" href="{{ '/' | relative_url }}">Home</a></li>
+      {% if page.layout == 'post' %}
+        <li aria-hidden="true">/</li>
+        <li><a class="hover:text-gray-800 hover:underline" href="{{ '/blog/' | relative_url }}">Blog</a></li>
+      {% elsif page.layout == 'category' %}
+        <li aria-hidden="true">/</li>
+        <li><a class="hover:text-gray-800 hover:underline" href="{{ '/categories/' | relative_url }}">Categories</a></li>
+      {% endif %}
+      <li aria-hidden="true">/</li>
+      <li aria-current="page" class="text-gray-800">{{ breadcrumb_title }}</li>
+    {% endif %}
+  </ol>
+</nav>
